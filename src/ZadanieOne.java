@@ -12,5 +12,6 @@ public class ZadanieOne {
         System.out.println(user.equals(user1));
         System.out.println();
         System.out.println("gghgjhgjlglggjhjggjg");
+        System.out.println("skdfgklskdfsdkfklsdfklsdfjklsdf");
     }
 }
